@@ -2,10 +2,10 @@
 by Jenny Cheng
 
 ## Context
-The "Freedom Project" for SEP11 is all about X. The purpose of this blog is to X.
+The "Freedom Project" for SEP11 is all about a course-long project where students will apply the content you are learning in daily lessons to their creations, reflect their learning in a blog, learn content on their own, and presenting them to their peers once finished. The purpose of this blog is to run through what steps I took while making this.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a list of music that users can choose to listen to- to help them study, relax, etc while having a timer (if they want to use it). This blog will walk through my process of independently studying EarSketch in order to make this kind of program.
 
 ## Links
 
