@@ -45,7 +45,8 @@ Here are some code snippets:
 <br>
 <br>
 <tt><b>fitMedia(HOUSE_ACOUSTIC_PIANO_005, 1, 1, 10);</tt></b>
-
+<br>
+<br>
 <ul>
 <li><b><tt>fitMedia</b></tt>: add sounds to the DAW (Digital Audio Workstation)</li>
 <li><b><tt>HOUSE_ACOUSTIC_PIANO_005</b></tt>: the name of the audio clip from EarSketch</li>
@@ -56,7 +57,8 @@ Here are some code snippets:
 <br>
 <br>
 <tt><b>setTempo(120)</tt></b>
-
+<br>
+<br>
 <ul>
 <li><b><tt>setTempo</b></tt>: sets the tempo on how fast or slow you want the audio to be</li>
 <li><b><tt>(120)</b></tt>: since its a large number, the tempo will go a bit fast</li>
