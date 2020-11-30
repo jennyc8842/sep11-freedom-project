@@ -24,8 +24,8 @@ One tool I decided on is <b>EarSketch.</b> I'm planning to make a list of music 
 Two skills I have developed so far are <b>problem decomposition and how to google</b>. The <b>problem decomposition</b> is that when I first started researching about the different tools I want to use, I had to break it down into smaller pieces- starting with what I wanted to make, and then after when I decided what to make, I researched for a tool that are suitable for it while making my program.
 <br>
 <br>
-I've also used skills like <b>how to google</b>. I needed to search up for good tutorials on how to code on EarSketch, and I searched up "EarSketch tutorial", and there were a few that were too long, but 
-I came across this <a href="https://www.youtube.com/watch?v=zCfvzIWUikE">YouTube video</a> that was simple and short. It was very desciptive and I understood it pretty well.
+I've also used skills like <b>how to google</b>. I needed to search up for good tutorials on how to code on EarSketch, and I searched up "EarSketch tutorial" and made sure to add in "Javascript" in my search bar. 
+There were a few that were too long, but I came across this <a href="https://www.youtube.com/watch?v=zCfvzIWUikE">YouTube video</a> that was simple and short. It was very desciptive and I understood it pretty well.
 
 
 [Next](entry02.md)
