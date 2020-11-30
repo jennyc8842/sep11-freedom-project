@@ -7,7 +7,7 @@ I wanted to make something different, so I explored the tool <a href="https://ea
 I have also found a super detailed website about <a href="https://earsketch.gatech.edu/itec2120/book.html#:~:text=EarSketch%20is%20a%20DAW%20(Digital,to%20create%20music%20using%20Python.&text=Instead%20of%20providing%20a%20GUI,Python%20code%20to%20create%20music.">Earsketch</a> which was very helpful.
 
 
-## EDP
+## Engineering Design Process (EDP)
 I'm currently at stages 1 and 2 of the Engineering Design Process: <b>defining and researching the problem.</b> The <b>problem</b> which I see for most students like me 
 is that they have <b>a difficult time managing their time</b>.
 So, I need to make a time managing app with music using EarSketch. 
