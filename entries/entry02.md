@@ -20,7 +20,7 @@ There is also another program called <a href="https://clockify.me/blog/apps-tool
 you spend on different websites a bit too long and it will alert you. However, what I don't see a lot is that most of them don't include music in their programs; they don't 
 have a feature where you can listen to music while the timer goes on.
 
-So, the <b>most promising solution</b> is to might make a program that allows the user to choose the music to listen to from a list, or let the program randomly shuffle the list
+So, the <b>most promising solution</b> is to make a program that allows the user to choose the music to listen to from a list, or let the program randomly shuffle the list
 of music for the user to listen to, while the timer is on for however long they want it to be. 
 
 For the next stage of the Engineering Design Process, I plan to be on stage 5, <b>creating a prototype</b> similar to the idea above on EarSketch and then uploading the 
