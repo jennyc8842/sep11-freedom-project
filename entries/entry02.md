@@ -41,7 +41,7 @@ Using what I've learned, I started to code something myself.
 Here are some code snippets:
 <br>
 <br>
-```fitMedia(HOUSE_ACOUSTIC_PIANO_005, 1, 1, 10);```
+<tt><b>fitMedia(HOUSE_ACOUSTIC_PIANO_005, 1, 1, 10);</tt></b>
 <br>
 <br>
 <ul>
@@ -53,8 +53,7 @@ Here are some code snippets:
 
 <br>
 <br>
-```setTempo(120)```
-<br>
+<tt><b>setTempo(120)</tt></b><br>
 <br>
 <ul>
 <li><b><tt>setTempo</b></tt>: sets the tempo on how fast or slow you want the audio to be</li>
