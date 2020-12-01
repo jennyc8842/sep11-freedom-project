@@ -22,7 +22,7 @@ have a feature where you can listen to music while the timer goes on.
 So, the <b>most promising solution</b> is to make a program that allows the user to choose the music to listen to from a list, or let the program randomly shuffle the list
 of music for the user to listen to, while the timer is on for however long they want it to be. 
 
-For the next stage of the Engineering Design Process, I plan to be on stage 5, <b>creating a prototype</b> similar to the idea above on EarSketch and then uploading the music I made on a repl and Github. I would start to code on my repl and Github to make a timer and allow the user to choose the music they want to listen to from a list
+For the next stage of the Engineering Design Process, I plan to be on stage 5, <b>creating a prototype</b> similar to the idea above on EarSketch and then uploading the music on repl.it and GitHub. I would start to code on my repl and GitHub to make a timer and allow the user to choose the music they want to listen to from a list
 and have an option for users to shuffle the music list.
 
 ## Knowledge
