@@ -31,7 +31,7 @@ The <b>tool</b> I have decided on is <b><a href="https://earsketch.gatech.edu/la
 can compose music and remix them to their liking by using two popular languages, Python and Javascript. 
 
 I've decided to make a project based on <b>time management</b>. This project is unique because it will have a list of music that users can choose from to
-listen to, or have the option to shuffle the listed music. There will be a timer that users can use as well. Using EarSketch will make this program easier because EarSketch is mainly focused on making music and I can use it to make a list of music the users can choose from. 
+listen to, or have the option to shuffle the listed music. There will be a timer that users can use to keep track of how much time is spent on whatever they want or have to do. Listening to music can help them study, relax, and get things done. Using EarSketch will make this program easier because EarSketch is mainly focused on making music and I can use it to make a list of music that the users can choose from. 
 
 Lately, I've been tinkering by using the main website of EarSketch and watching tons of YouTube videos on how to start coding using Javascript on EarSketch.
 Using what I've learned, I started to code something myself.
