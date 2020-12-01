@@ -41,7 +41,7 @@ Using what I've learned, I started to code something myself.
 Here are some code snippets:
 <br>
 <br>
-`fitMedia(HOUSE_ACOUSTIC_PIANO_005, 1, 1, 10);`
+```fitMedia(HOUSE_ACOUSTIC_PIANO_005, 1, 1, 10);```
 <br>
 <br>
 <ul>
@@ -53,7 +53,7 @@ Here are some code snippets:
 
 <br>
 <br>
-`setTempo(120)`
+```setTempo(120)```
 <br>
 <br>
 <ul>
