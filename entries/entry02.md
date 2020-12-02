@@ -61,7 +61,7 @@ Here are some code snippets:
 <br>
 <ul>
 <li><b><tt>setTempo</b></tt>: sets the tempo on how fast or slow you want the audio to be</li>
-<li><b><tt>(120)</b></tt>: since its a large number, the tempo will go a bit fast</li>
+<li><b><tt>(120)</b></tt>: the tempo will be brisk, but not too fast</li>
 </ul>
 
 
