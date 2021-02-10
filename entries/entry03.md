@@ -19,7 +19,8 @@ For the next stage of the Engineering Design Process, I plan to still be on stag
 
 From this <a href="https://www.youtube.com/watch?v=__3sQNXdbBg">YouTube video</a>, I learned about for loops and one of her code included:
 
-```for(var x = 0; x < 8; x = x + 3) { 
+```
+for(var x = 0; x < 8; x = x + 3) { 
     makeBeat(HIPHOP_SOLOMOOGLEAD_001, 3, 4, "0++-0---0+++0---");
 }
 ```
@@ -28,7 +29,8 @@ Here I modified it to my liking:
 
 <br>
 
-```for(var y = 1; y < 10; y = y + 3) { 
+```
+for(var y = 1; y < 10; y = y + 3) { 
   makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--"); <br>
   // 0 --> play, + --> play a bit more, - --> pause
 }
@@ -45,13 +47,15 @@ From this, I learned that I am able to make my own beat that will keep on repeat
 
 Of course, here is another code from the <a href="http://nebomusic.net/earsketchlessons/Directions_EarSketch2_Effects.pdf">documentation</a> mentioned earlier.
 
-<tt><b>setEffect(5, CHORUS, CHORUS_LENGTH, 15)</tt></b>
-
+```
+setEffect(5, CHORUS, CHORUS_LENGTH, 15)
+```
 
 Here I modified it, so it can fit with my music:
 
-
-<tt><b>setEffect(5, VOLUME, GAIN, -12) </tt></b>
+```
+setEffect(5, VOLUME, GAIN, -12)
+```
 
 <br>
 
