@@ -19,17 +19,20 @@ For the next stage of the Engineering Design Process, I plan to still be on stag
 
 From this <a href="https://www.youtube.com/watch?v=__3sQNXdbBg">YouTube video</a>, I learned about for loops and one of her code included:
 
-<tt> for(var x = 0; x < 8; x = x + 3) {
+<tt><b> for(var x = 0; x < 8; x = x + 3) { <br>
     makeBeat(HIPHOP_SOLOMOOGLEAD_001, 3, 4, "0++-0---0+++0---");
 }
-</tt>
+</tt></b>
 
 Here I modified it to my liking:
-<tt> for(var y = 1; y < 10; y = y + 3) {
-  makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--");
+
+<br>
+
+<tt><b> for(var y = 1; y < 10; y = y + 3) { <br>
+  makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--"); <br>
   // 0 --> play, + --> play a bit more, - --> pause
 }
-</tt>
+</tt></b>
 
 <br>
 
@@ -42,12 +45,13 @@ From this, I learned that I am able to make my own beat that will keep on repeat
 
 Of course, here is another code from the <a href="http://nebomusic.net/earsketchlessons/Directions_EarSketch2_Effects.pdf">documentation</a> mentioned earlier.
 
-<tt>setEffect(5, CHORUS, CHORUS_LENGTH, 15)</tt>
+<tt><b>setEffect(5, CHORUS, CHORUS_LENGTH, 15)</tt></b>
 
 
 Here I modified it, so it can fit with my music:
 
-<tt> setEffect(5, VOLUME, GAIN, -12) </tt>
+
+<tt><b>setEffect(5, VOLUME, GAIN, -12) </tt></b>
 
 <ul>
 <tt><b><li>setEffect</tt></b>: set an effect</li>
@@ -68,7 +72,8 @@ I used the skill, <b>problem decomposition</b> when attempting to make the music
 <li> Think of what genre you want </li>
 <li> Select multiple songs + observe closely on their melody + beats </li>
 <li> Finish the beginning of your music </li> 
-<li> ....etc</li>
+<li> list goes on... </li>
+</ul>
 
 Just a list like this kept things organized and I was able to keep track on what I had to do next.
 
