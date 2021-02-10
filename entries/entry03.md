@@ -19,20 +19,20 @@ For the next stage of the Engineering Design Process, I plan to still be on stag
 
 From this <a href="https://www.youtube.com/watch?v=__3sQNXdbBg">YouTube video</a>, I learned about for loops and one of her code included:
 
-<tt><b> for(var x = 0; x < 8; x = x + 3) { <br>
+```for(var x = 0; x < 8; x = x + 3) { 
     makeBeat(HIPHOP_SOLOMOOGLEAD_001, 3, 4, "0++-0---0+++0---");
 }
-</tt></b>
+```
 
 Here I modified it to my liking:
 
 <br>
 
-<tt><b> for(var y = 1; y < 10; y = y + 3) { <br>
+```for(var y = 1; y < 10; y = y + 3) { 
   makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--"); <br>
   // 0 --> play, + --> play a bit more, - --> pause
 }
-</tt></b>
+```
 
 <br>
 
