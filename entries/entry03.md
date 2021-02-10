@@ -39,8 +39,8 @@ for(var y = 1; y < 10; y = y + 3) {
 <br>
 
 <ul>
-<li>```for(var y = 1; y < 10; y = y + 3)```: start at 1, while y is less than 10, add 3 to y</li>
-<li>```makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y```: make a beat, sound name, what track #, put pattern on measure 6 then keep adding to get next measure</li>
+<li><b>for(var y = 1; y < 10; y = y + 3)</b>: start at 1, while y is less than 10, add 3 to y</li>
+<li><b>makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y</b>: make a beat, sound name, what track #, put pattern on measure 6 then keep adding to get next measure</li>
 </ul>
 
 From this, I learned that I am able to make my own beat that will keep on repeating if the condition is met. It is a great way if you want something to come at a certain time with a certain beat which makes the music more unique.
@@ -60,8 +60,8 @@ setEffect(5, VOLUME, GAIN, -12)
 <br>
 
 <ul>
-<li>```setEffect```: set an effect</li>
-<li>```(5, VOLUME, GAIN, -12)```: track number, effect name, parameter, start value</li>
+<li><b>setEffect</b>: set an effect</li>
+<li><b>(5, VOLUME, GAIN, -12)</b>: track number, effect name, parameter, start value</li>
 </ul>
 
 Here I learned how to set an effect on the music I am currently making. The easiest way to explain it is like a filter you put on your camera photos and instead of it looking more better--the music sounds better with the effect. There are also many other different effect names with different parameters which I had a lot of fun tinkering with.
