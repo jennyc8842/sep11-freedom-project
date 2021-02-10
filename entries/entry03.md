@@ -31,8 +31,7 @@ Here I modified it and coded this:
 
 ```
 for(var y = 1; y < 10; y = y + 3) { 
-  makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--"); <br>
-  // 0 --> play, + --> play a bit more, - --> pause
+  makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y,"0++--+-+--+-+-0--");
 }
 ```
 
@@ -41,6 +40,7 @@ for(var y = 1; y < 10; y = y + 3) {
 <ul>
 <li><b>for(var y = 1; y < 10; y = y + 3)</b>: start at 1, while y is less than 10, add 3 to y</li>
 <li><b>makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y</b>: make a beat, sound name, what track #, put pattern on measure 6 then keep adding to get next measure</li>
+<li><b>"0++--+-+--+-+-0--"</b>: <b>0</b> = play, <b>+</b> = play a bit more, <b>-</b> = pause 
 </ul>
 
 From this, I learned that I am able to make my own beat that will keep on repeating if the condition is met. It is a great way if you want something to come at a certain time with a certain beat which makes the music more unique.
