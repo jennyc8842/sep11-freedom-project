@@ -53,6 +53,8 @@ Here I modified it, so it can fit with my music:
 
 <tt><b>setEffect(5, VOLUME, GAIN, -12) </tt></b>
 
+<br>
+
 <ul>
 <tt><b><li>setEffect</tt></b>: set an effect</li>
 <tt><b><li>(5, VOLUME, GAIN, -12)</tt></b>: track number, effect name, parameter, start value</li>
