@@ -12,6 +12,7 @@ Although there weren't many documentations for coding javascript on EarSketch, t
 
 I'm currently at stage 5 of the Engineering Design Process: <b>creating a prototype</b>. I am starting to create music out of the codes I learned from tutorials and documentations on EarSketch. Since I am making music, I want to have different genres of music like pop, lofi hip hop, etc. I knew I had to get some inspiration from YouTube/Spotify to hear what has been popular these days. Most of them contained lyrics and for some people, that may be hard to concentrate while doing work. Eventually, I looked for music that did not contain lyrics. Starting with this very popular <a href="https://www.youtube.com/watch?v=5qap5aO4i9A">lofi hip hop</a> with that lofi girl with the cat! The music from there has a very slow melody and has a nice drum/guitar/piano beat at the background. All of these which I will keep in mind while making one. Of course, this is only one genre that I am listing. As for the other genres, I'll be using this same method: searching up songs popular these days, noticing the small details of the melody, and instruments used.
 
+<br>
 
 For the next stage of the Engineering Design Process, I plan to still be on stage 5, <b>creating a prototype</b>. I think I still have a lot to work with, and it is not really that great to stuff a lot of information in one sitting. However, I will still keep in mind to what I said in my previous--to make a program that allows the user to choose the music to listen to from a list, or let the program randomly shuffle the list of music for the user to listen to, while the timer is on for however long they want it to be. This might be what I will incorporate once I am done making the music. So for the next time, I expect to <b>create music with different genres--the music itself should already have a beat/pattern/melody to it and it doesn't necessarily have to be finished.</b>
 
@@ -40,7 +41,7 @@ for(var y = 1; y < 10; y = y + 3) {
 <ul>
 <li><b>for(var y = 1; y < 10; y = y + 3)</b>: start at 1, while y is less than 10, add 3 to y</li>
 <li><b>makeBeat(RD_RNB_OTHERPERCUSSIONBEAT_11, 4, 6 + y</b>: make a beat, sound name, what track #, put pattern on measure 6 then keep adding to get next measure</li>
-<li><b>"0++--+-+--+-+-0--"</b>: <b>0</b> = play, <b>+</b> = play a bit more, <b>-</b> = pause 
+<li><b>"0++--+-+--+-+-0--"</b>: 0 (play), + (play a bit more), - (pause)
 </ul>
 
 From this, I learned that I am able to make my own beat that will keep on repeating if the condition is met. It is a great way if you want something to come at a certain time with a certain beat which makes the music more unique.
