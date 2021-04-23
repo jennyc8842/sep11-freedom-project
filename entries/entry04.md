@@ -6,7 +6,7 @@
 Sources I found helpful this time include this <a href="https://workshops.nuevofoundation.org/python-earsketch/7-activity-3-organize-songs-using-functions/">website</a> that helped me get a short review about functions. I realized that this only worked on python and I had to use javascript for EarSketch which I used my prior knowledge from SEP class. Of course, I can't forget about the trusty, <a href="https://www.w3schools.com/js/js_functions.asp">w3schools</a> with a great review on javascript functions!
 
 
-Since there were no sources or videos that gone over methods I can use in EarSketch USING JAVASCRIPT, I recently found out that there was a section called API below Content Manager of <a href="https://earsketch.gatech.edu/earsketch2/">EarSketch</a> where it explains all the methods in detail! Make sure you login to see this all in action. I decided to learn how to use createAudioSlice() and selectRandomFile(). I will further explain createAudioSlice() below since it is more interesting.
+Since there were no sources or videos that gone over methods I can use in EarSketch <i>USING JAVASCRIPT</i>, I recently found out that there was a section called API below Content Manager of <a href="https://earsketch.gatech.edu/earsketch2/">EarSketch</a> where it explains all the methods in detail! Make sure you login to see this all in action. I decided to learn how to use createAudioSlice() and selectRandomFile(). I will further explain createAudioSlice() below since it is more interesting.
 
 
 
@@ -87,8 +87,8 @@ fitMedia(slice1, 1, 1, end);
 <ul>
 <li><b>createAudioSlice</b>: cuts parts of your audio on what you like</li>
 <li><b>RD_EDM_ANALOGLEAD_1</b>: audio name</li>
-<li><b>2.2</b>: start of part you'll keep </li>
-<li><b>4.5</b>: end of part you'll keep </li>
+<li><b>2.2</b>: start of audio measure you'll keep </li>
+<li><b>4.5</b>: end of audio measure you'll keep </li>
 </ul>
 
 
@@ -109,9 +109,9 @@ As for my process of planning for my MVP, I have been working once a week on thi
 <li>A button to start timer</li>
 </ul>
 
-I also have many other ideas like adding a reset button, dark mode/light mode background option, and more. All of these I will add if I have extra time once I finish my general purpose of how I want my website to run.
+I also have many other ideas like adding a reset button, dark mode/light mode background option, and more. All of these I will add if I have extra time when I finish the general purpose of how I want my website to run.
 
-
+So far, I'm revising my music and making final finish touches to it! I've also started making a dropdown menu for the music list and if everything goes to plan...I'll be working on the timer by next week!
 
 
 ## Skills
