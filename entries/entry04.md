@@ -6,7 +6,7 @@
 Sources I found helpful this time include this <a href="https://workshops.nuevofoundation.org/python-earsketch/7-activity-3-organize-songs-using-functions/">website</a> that helped me get a short review about functions. I realized that this only worked on python and I had to use javascript for EarSketch which I used my prior knowledge from SEP class. Of course, I can't forget about the trusty, <a href="https://www.w3schools.com/js/js_functions.asp">w3schools</a> with a great review on javascript functions!
 
 
-Since there were no sources or videos that gone over methods I can use in EarSketch USING JAVASCRIPT, I recently found out that there was an <a href="https://earsketch.gatech.edu/earsketch2/">API</a> section below Content Manager of EarSketch where it explains all the methods in detail! I decided to learn how to use createAudioSlice() and selectRandomFile(). I will further explain createAudioSlice() below since it is more interesting.
+Since there were no sources or videos that gone over methods I can use in EarSketch USING JAVASCRIPT, I recently found out that there was a section called API below Content Manager of <a href="https://earsketch.gatech.edu/earsketch2/">EarSketch</a> where it explains all the methods in detail! Make sure you login to see this all in action. I decided to learn how to use createAudioSlice() and selectRandomFile(). I will further explain createAudioSlice() below since it is more interesting.
 
 
 
@@ -27,8 +27,9 @@ For the next stage of the Engineering Design Process, I plan to be on stage 6, <
 
 As mentioned earlier, I relearned about functions from this <a href="https://workshops.nuevofoundation.org/python-earsketch/7-activity-3-organize-songs-using-functions/">website</a>. On the website, it showed one of this code:
 
+<br>
+
 ```
-# Section A
 def sectionA(startMeasure, endMeasure):
     fitMedia(RD_UK_HOUSE__AIRYPAD_1, 1, startMeasure, endMeasure)
     fitMedia(HOUSE_MAIN_BEAT_002, 4, startMeasure, endMeasure)
@@ -36,6 +37,8 @@ def sectionA(startMeasure, endMeasure):
 
 sectionA(1, 9)
 ```
+
+<br>
 
 Here I modified it to Javascript while I was tinkering in EarSketch:
 
@@ -63,6 +66,7 @@ From this, I learned that now I'm able to make multiple sounds play at once a ce
 
 Another code from <a href="https://earsketch.gatech.edu/earsketch2/">EarSketch</a> itself on the API section under Content Manager is shown below:
 
+<br>
 
 ```
 var slice = createAudioSlice(HOUSE_BREAKBEAT_001, 1.5, 2.5);
@@ -77,6 +81,9 @@ var slice1 = createAudioSlice(RD_EDM_ANALOGLEAD_1, 2.2, 4.5);
 fitMedia(slice1, 1, 1, end);
 ```
 
+<br>
+
+
 <ul>
 <li><b>createAudioSlice</b>: cuts parts of your audio on what you like</li>
 <li><b>RD_EDM_ANALOGLEAD_1</b>: audio name</li>
@@ -90,7 +97,10 @@ Here I learned that createAudioSlice() will literally slice some parts of the mu
 <br>
 
 
-As planning for the MVP, I have been working once a week on this project of small tasks I want to get done. I've decided that this project was going to be a website that has music and a timer that help users to study, relax, etc. This is my plan so far:
+## Planning for MVP
+
+
+As for my process of planning for my MVP, I have been working once a week on this project of small tasks I want to get done. I've decided that this project was going to be a website that has music and a timer that help users to study, relax, etc. This is my plan so far:
 
 <ul>
 <li>Prompt that asks user how many minutes they want the timer to run</li>
@@ -99,7 +109,8 @@ As planning for the MVP, I have been working once a week on this project of smal
 <li>A button to start timer</li>
 </ul>
 
-I also have many other ideas like adding a reset button, dark mode/light mode background option, and more. All of these I will consider to add if I have extra time once I finish my general idea of how I want my website to run.
+I also have many other ideas like adding a reset button, dark mode/light mode background option, and more. All of these I will add if I have extra time once I finish my general purpose of how I want my website to run.
+
 
 
 
