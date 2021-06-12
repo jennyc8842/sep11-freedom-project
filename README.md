@@ -9,10 +9,10 @@ For my project, I am making a website to help users study, relax, and be product
 
 ## Links
 
-Product
+Product:
 <a href="https://tinyurl.com/2mnuvjxu">Try it yourself!</a>
 
-Presentation
+Presentation:
 <a href="https://tinyurl.com/d2rvdajd">Watch it here!</a>
 
 ## Implications
