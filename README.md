@@ -2,18 +2,18 @@
 by Jenny Cheng
 
 ## Context
-The "Freedom Project" for SEP11 is all about a course-long project where students will apply the content you are learning in daily lessons to their creations, reflect their learning in a blog, learn content on their own, and presenting them to their peers once finished. The purpose of this blog is to run through what steps I took while making this.
+The "Freedom Project" for SEP11 is all about a course-long project where students will apply the content they are learning daily lessons to their creations, reflect their learning in a blog, learn content on their own, and presenting them to their peers once finished. The purpose of this blog is to run through what steps I took while making this.
 
 ## Content
-For my project, I am making a website to help users study, relax, and be productive. On the website, there will be a list of music the user can listen to and a timer. This blog will walk through my process of independently studying EarSketch, the tool I choose to make music using Javascript, and my process that I took to make this website.
+For my project, I am making a website to help users study, relax, and be productive. On the website, there will be a list of music the user can listen to and a timer. This blog will walk through my process of independently studying EarSketch, the tool I choose to make music using Javascript. It will also walk through all the knowledge, skills, engineering design process, and sources that I learned and used to make this website.
 
 ## Links
 
 Product:
-<a href="https://tinyurl.com/2mnuvjxu">Try it yourself!</a>
+<i><a href="https://tinyurl.com/2mnuvjxu">Try it yourself!</a></i>
 
 Presentation:
-<a href="https://tinyurl.com/d2rvdajd">Watch it here!</a>
+<i><a href="https://tinyurl.com/d2rvdajd">Watch it here!</a></i>
 
 ## Implications
 X
