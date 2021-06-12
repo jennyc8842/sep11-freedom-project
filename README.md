@@ -5,13 +5,15 @@ by Jenny Cheng
 The "Freedom Project" for SEP11 is all about a course-long project where students will apply the content you are learning in daily lessons to their creations, reflect their learning in a blog, learn content on their own, and presenting them to their peers once finished. The purpose of this blog is to run through what steps I took while making this.
 
 ## Content
-For my project, I am making a list of music that users can choose to listen to- to help them study, relax, etc while having a timer (if they want to use it). This blog will walk through my process of independently studying EarSketch in order to make this kind of program.
+For my project, I am making a website to help users study, relax, and be productive. On the website, there will be a list of music the user can listen to and a timer. This blog will walk through my process of independently studying EarSketch (making music using Javascript) and my process that I took to make this website.
 
 ## Links
 
 Product
+<a href="https://tinyurl.com/2mnuvjxu">Try it yourself!</a>
 
 Presentation
+<a href="https://tinyurl.com/d2rvdajd">Watch it here!</a>
 
 ## Implications
 X
