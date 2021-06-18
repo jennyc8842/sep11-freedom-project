@@ -16,6 +16,7 @@ My freedom project is finally finished after working really hard on it for sever
 <i><a href="https://tinyurl.com/43vbssbr">View here!</a></i>
 
 
+Thank you for reading!
 
 
 [Previous](entry04.md) | [Next](entry06.md)
